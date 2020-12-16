@@ -15,7 +15,9 @@
 
 [Evaluation Criteria](#evaluation-criteria)
 
-[Dos and Don'ts](#dos-and-don'ts)
+[Do This](#do-this)
+
+[Don't do This](#don't-do-this)
 
 ## Purpose
 
@@ -107,8 +109,7 @@ In order to submit your work, please save your project in codesandbox and email 
 
 You have 10 days from the day you applied to send in your admissions challenge. Once we review your work, we will reach out (typically within a day or two) to let you know the next steps.
 
-## Dos and Don’ts
-
+## Do This
 
 - Do remember what stumped you and problems you had and be prepared to talk about them during your interview.
 - Do have the grit to find solutions online. Not every search result will be a winner, but if you persevere, all the answers you need are available online.
@@ -117,6 +118,7 @@ You have 10 days from the day you applied to send in your admissions challenge. 
 - Do use vanilla JavaScript. This means just plain ol’ JS without any frameworks or libraries.
 - Do use Flexbox for your layout.
 
+## Don't do This
 
 - Don’t worry about creating a pixel-perfect reproduction of the mockup.
 - Don’t try to learn everything there is to know about HTML, CSS and JS. There is way too much to learn and that is what we are here to help with!
