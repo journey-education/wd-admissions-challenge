@@ -42,7 +42,7 @@ You must use the content provided. Once you open the project, you will see a fil
 ### JavaScript
 
 - Create an input field at the bottom of the page that will gather visitor comments.
-- Create an <input> that will accept comments from visitors.
+- Create an input that will accept comments from visitors.
 - Create a button which submits the comments to the website.
 - Create a function that will post the comments to the page.
 
@@ -62,7 +62,7 @@ In order to crush your admissions challenge, you’ll need to learn some HTML, C
 
 You will be building your project with an app called codesandbox. To get started:
 
-- Create an account here: https://codesandbox.io/signin
+- Create an account here: <a href="https://codesandbox.io/signin" target="_blank">https://codesandbox.io/signin</a>
 - Once signed in, go to this URL https://codesandbox.io/s/tech-challenge-toystory-4-xfbd7 
 - Create a copy of this project by clicking "file" --> "Fork Sandbox" 
 - This is where you will build out your project
