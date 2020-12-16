@@ -109,20 +109,18 @@ You have 10 days from the day you applied to send in your admissions challenge. 
 
 ## Dos and Don’ts
 
-- Don’t worry about creating a pixel-perfect reproduction of the mockup.
+
 - Do remember what stumped you and problems you had and be prepared to talk about them during your interview.
-
-- Don’t try to learn everything there is to know about HTML, CSS and JS. There is way too much to learn and that is what we are here to help with!
 - Do have the grit to find solutions online. Not every search result will be a winner, but if you persevere, all the answers you need are available online.
-
-- Don’t copy code from outside sources. The code should be your own.
 - Do be aware that we will be questioning you on your code and the thought that went into it.
-
-- Don’t use any CSS framework to complete your project.
 - Do write all of the HTML and CSS yourself.
-
-- Don’t use jQuery.
 - Do use vanilla JavaScript. This means just plain ol’ JS without any frameworks or libraries.
-
-- Don't use tables in your code.
 - Do use Flexbox for your layout.
+
+
+- Don’t worry about creating a pixel-perfect reproduction of the mockup.
+- Don’t try to learn everything there is to know about HTML, CSS and JS. There is way too much to learn and that is what we are here to help with!
+- Don’t copy code from outside sources. The code should be your own.
+- Don’t use any CSS framework to complete your project.
+- Don’t use jQuery.
+- Don't use tables in your code.
