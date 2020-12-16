@@ -2,10 +2,13 @@
 
 ## Table of Contents
 [Purpose](#purpose)
-
-- We have two main reasons for asking you to do this project;
-- To make sure that you have the ability and grit to learn something difficult in a short amount of time.
-- To make sure that you have an understanding of basic HTML, CSS and JavaScript.
+[Project](#project)
+[Requirements](#requirements)
+[Getting Started](#getting-started)
+[Advice](#advice)
+[Submitting your Work](#submitting-your-work)
+[Evaluation Criteria](#evaluation-criteria)
+[Dos and Don'ts](#dos-and-don'ts)
 
 ## Purpose
 
@@ -74,7 +77,7 @@ You will be building your project with an app called codesandbox. To get started
 - Create a copy of this project by clicking "file" --> "Fork Sandbox" 
 - This is where you will build out your project
 
-### Advice
+## Advice
 
 - Take some time to look over the provided content and mockups. Here are a couple of gifs to give you a better idea of what the actual page looks like.
 
@@ -97,7 +100,7 @@ In order to submit your work, please save your project in codesandbox and email 
 
 You have 10 days from the day you applied to send in your admissions challenge. Once we review your work, we will reach out (typically within a day or two) to let you know the next steps.
 
-### Dos and Don’ts
+## Dos and Don’ts
 
 - Don’t worry about creating a pixel-perfect reproduction of the mockup.
 - Do remember what stumped you and problems you had and be prepared to talk about them during your interview.
