@@ -1,5 +1,12 @@
 # Admission Challenge - Toy Story 4
 
+## Table of Contents
+[Purpose](#purpose)
+
+- We have two main reasons for asking you to do this project;
+- To make sure that you have the ability and grit to learn something difficult in a short amount of time.
+- To make sure that you have an understanding of basic HTML, CSS and JavaScript.
+
 ## Purpose
 
 - We have two main reasons for asking you to do this project;
@@ -62,7 +69,7 @@ In order to crush your admissions challenge, you’ll need to learn some HTML, C
 
 You will be building your project with an app called codesandbox. To get started:
 
-- Create an account here: <a href="https://codesandbox.io/signin" target="_blank">https://codesandbox.io/signin</a>
+- Create an account here:  https://codesandbox.io/signin
 - Once signed in, go to this URL https://codesandbox.io/s/tech-challenge-toystory-4-xfbd7 
 - Create a copy of this project by clicking "file" --> "Fork Sandbox" 
 - This is where you will build out your project
