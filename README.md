@@ -1,7 +1,6 @@
-# Admission Challenge - Toy Story 4
+# Create a review page for Toy Story 4
 
 ## Table of Contents
-[Purpose](#purpose)
 
 [Project](#project)
 
@@ -19,12 +18,6 @@
 
 [Don't do This](#don't-do-this)
 
-## Purpose
-
-- We have two main reasons for asking you to do this project;
-- To make sure that you have the ability and grit to learn something difficult in a short amount of time.
-- To make sure that you have an understanding of basic HTML, CSS and JavaScript.
-
 ## Project
 
 You will be building a 1-page website using HTML, CSS, and JavaScript. Don’t worry if you’ve never coded before, this is a super fun project for beginners and we’ll provide you with all the resources you need to succeed 💪🏽.
@@ -36,10 +29,6 @@ You will be creating a movie page for Toy Story 4. Here is a snapshot of what yo
 ---
 
 ## Requirements
-
-### Content
-
-You must use the content provided. Once you open the project, you will see a file called content.md.
 
 ### HTML
 
@@ -88,12 +77,13 @@ You will be building your project with an app called codesandbox. To get started
 
 ## Advice
 
-- Take some time to look over the provided content and mockups. Here are a couple of gifs to give you a better idea of what the actual page looks like.
+- Take some time to look over the provided content and mockups. Here is a gif to give you a better idea of what the actual page looks like.
 
 ![all sizes](screenshots/wd_techchallenge.gif)
 
 - We’ve added color codes, and other CSS values that you will need in the styles.css file.
-- All of the assets you will need are in the images folder.
+- All of the images you will need are in the images folder.
+- All of the text you will need is in the content.md file.
 - The fonts are already being imported and are available for use in the css file.
 - Get as far as you can. This challenge is meant to be difficult and provide you with a challenge that should test your limits.
 - Keep in mind that there are many ways of completing the project. Everyone will have a different solution. As long as the rendered page looks like the provided mockup and you haven’t gone against any explicit “don’ts”, you should be fine.
