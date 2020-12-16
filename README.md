@@ -10,7 +10,7 @@
 
 You will be building a 1-page website using HTML, CSS, and JavaScript. Don’t worry if you’ve never coded before, this is a super fun project for beginners and we’ll provide you with all the resources you need to succeed 💪🏽.
 
-You will be creating a movie page of Toy Story 4. Here is a snapshot of what your project should look like on desktop.
+You will be creating a movie page for Toy Story 4. Here is a snapshot of what your project will look like.
 
 ![all sizes](screenshots/wd_challenge-desktop.jpeg)
 
@@ -26,26 +26,25 @@ You must use the content provided. Once you open the project, you will see a fil
 
 - Use proper semantic HTML tags as much as possible.
 - There should be
-  - One <h1> tag
-  - Two <h2> tags
-  - A number of <p> tags
-  - Some <img> tags
+  - One h1 tag
+  - Two h2 tags
+  - A number of p tags
+  - Some img tags
   - Other tags as needed
   - Add links to outside sources (ex: links to character wikipedia pages).
 
 ### CSS
 
-- Your page must match as closely as possible to the provided mockups (mobile, tablet and desktop).
 - Use HTML tags, or classes to target page elements.
 - Get your version of the design as close as you can to the provided mockup.
 - Create a hover effect (with CSS) on any element.
 
 ### JavaScript
 
-- Create an input field at the bottom of the page that will gather visitor answers.
-- Create an <input> that will accept answers from visitors.
-- Create a button which submits the answer to the website.
-- Create a function that will post the answer to the page.
+- Create an input field at the bottom of the page that will gather visitor comments.
+- Create an <input> that will accept comments from visitors.
+- Create a button which submits the comments to the website.
+- Create a function that will post the comments to the page.
 
 ---
 
@@ -61,18 +60,20 @@ In order to crush your admissions challenge, you’ll need to learn some HTML, C
 
 ### Building your Project with CodeSandbox
 
-[Link to codesandbox](https://codesandbox.io/s/tech-challenge-toystory-4-xfbd7)
+You will be building your project with an app called codesandbox. To get started:
 
-You will be building your project with an app called codesandbox. To get started, open this link: https://codesandbox.io/s/tech-challenge-toystory-4-xfbd7. You should fork this sandbox (button at the top of the page. This will prompt you to signup/signin. Do this. You will need to save your work in order to submit it to us.
+- Create an account here: https://codesandbox.io/signin
+- Once signed in, go to this URL https://codesandbox.io/s/tech-challenge-toystory-4-xfbd7 
+- Create a copy of this project by clicking "file" --> "Fork Sandbox" 
+- This is where you will build out your project
 
 ### Advice
 
-- Take some time to look over the provided content and mockups. Here are a couple of gifs to give you a better idea of what the actual page looks like at different screen widths.
+- Take some time to look over the provided content and mockups. Here are a couple of gifs to give you a better idea of what the actual page looks like.
 
 ![responsive](screenshots/wd_techchallenge.gif)
 ![responsive](screenshots/wd_techchallenge-comments.gif)
 
-- When you are ready to start styling, use a mobile-first approach.
 - We’ve added color codes, and other CSS values that you will need in the styles.css file.
 - All of the assets you will need are in the images folder.
 - The fonts are already being imported and are available for use in the css file.
@@ -83,11 +84,11 @@ You will be building your project with an app called codesandbox. To get started
 
 ## Submitting your Work
 
-In order to submit your work, please save your project in codesandbox and email the URL to kevin@concordiabootcamps.ca.
+In order to submit your work, please save your project in codesandbox and email the URL to kevin@journeyedu.co
 
 ## Evaluation Criteria
 
-You have 4-weeks from the day you applied to send in your admissions challenge. Once we review your work, we will reach out (typically within a day or two) to let you know the next steps. This will either be to schedule a video interview or to give you some feedback and ask you to try again.
+You have 10 days from the day you applied to send in your admissions challenge. Once we review your work, we will reach out (typically within a day or two) to let you know the next steps.
 
 ### Dos and Don’ts
 
@@ -101,3 +102,5 @@ You have 4-weeks from the day you applied to send in your admissions challenge. 
 - Do write all of the HTML and CSS yourself.
 - Don’t use jQuery.
 - Do use vanilla JavaScript. This means just plain ol’ JS without any frameworks or libraries.
+- Don't use tables in your code.
+- Do use Flexbox for your layout.
