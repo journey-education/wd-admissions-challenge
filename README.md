@@ -90,8 +90,7 @@ You will be building your project with an app called codesandbox. To get started
 
 - Take some time to look over the provided content and mockups. Here are a couple of gifs to give you a better idea of what the actual page looks like.
 
-![responsive](screenshots/wd_techchallenge.gif)
-![responsive](screenshots/wd_techchallenge-comments.gif)
+![all sizes](screenshots/wd_techchallenge.gif)
 
 - We’ve added color codes, and other CSS values that you will need in the styles.css file.
 - All of the assets you will need are in the images folder.
