@@ -2,12 +2,19 @@
 
 ## Table of Contents
 [Purpose](#purpose)
+
 [Project](#project)
+
 [Requirements](#requirements)
+
 [Getting Started](#getting-started)
+
 [Advice](#advice)
+
 [Submitting your Work](#submitting-your-work)
+
 [Evaluation Criteria](#evaluation-criteria)
+
 [Dos and Don'ts](#dos-and-don'ts)
 
 ## Purpose
