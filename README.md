@@ -92,7 +92,7 @@ You will be building your project with an app called codesandbox. To get started
 
 ## Submitting your Work
 
-In order to submit your work, please save your project in codesandbox and email the URL to kevin@journeyedu.co
+In order to submit your work, please save your project in codesandbox and email the URL to jenny@concordiabootcamps.ca
 
 ## Evaluation Criteria
 
