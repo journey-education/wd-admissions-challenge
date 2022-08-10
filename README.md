@@ -92,7 +92,7 @@ You will be building your project with an app called codesandbox. To get started
 
 ## Submitting your Work
 
-In order to submit your work, please save your project in codesandbox and email the URL to jenny@concordiabootcamps.ca
+In order to submit your work, please save your project in codesandbox and email the URL to your learning advisor.
 
 ## Evaluation Criteria
 
