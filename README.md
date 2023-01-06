@@ -62,8 +62,8 @@ You will be creating a movie page for Toy Story 4. Here is a snapshot of what yo
 
 In order to crush your admissions challenge, you’ll need to learn some HTML, CSS, and JavaScript. We’ve hand selected a few tutorials we recommend starting with, but feel free to use any additional resources you might need.
 
-- [Udacity’s free intro to HTML & CSS](https://www.udacity.com/course/intro-to-html-and-css--ud001)
-- [Udacity’s free intro to JavaScript](https://www.udacity.com/course/intro-to-javascript--ud803)
+- [Free intro to HTML & CSS](https://www.bigmarker.com/concordiabootcamps/Introduction-to-Web-Development)
+- [JavaScript DOM Manipulation](https://www.youtube.com/watch?v=y17RuWkWdn8)
 - [flexboxfroggy.com](https://flexboxfroggy.com/)
 
 ### Building your Project with CodeSandbox
