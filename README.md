@@ -96,7 +96,7 @@ In order to submit your work, please save your project in codesandbox and email 
 
 ## Evaluation Criteria
 
-You have 10 days from the day you applied to send in your admissions challenge. Once we review your work, we will reach out (typically within a day or two) to let you know the next steps. 10 days is not a lot of time, so make sure to put aside a few hours each day to get this done. At the end of the 10 days, submit your project at whichever state it is in.
+Your learning advisor will specify how long you have to complete and submit your admissions challenge. Once we review your work, we will reach out (typically within a day or two) to let you know the next steps.
 
 ## Do This
 
